@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": "1026",
+  "username": "admin",
+  "password": "12345",
+  "file_to_copy": "test.txt",
+  "path_from": "/Users/mac/PycharmProjects/av_soft/",
+  "path_to": "/somewhere/"
+}
