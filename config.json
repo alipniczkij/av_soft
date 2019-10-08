@@ -1,9 +1,14 @@
 {
-  "host": "127.0.0.1",
-  "port": "1026",
-  "username": "admin",
-  "password": "12345",
-  "file_to_copy": ["test.txt", "test1.txt"],
-  "path_from": "~/",
-  "path_to": "/somewhere/"
+  "ftp": {
+    "host": "127.0.0.1",
+    "port": "1026",
+    "username": "admin",
+    "password": "12345"
+  },
+  "files": [
+    ["/Users/mac/PycharmProjects/av_soft/test.txt",
+    "/somewhere/"],
+    ["/Users/mac/PycharmProjects/av_soft/test1.txt",
+    "/somewhere/"]
+  ]
 }
